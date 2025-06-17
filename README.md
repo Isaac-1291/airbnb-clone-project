@@ -53,16 +53,13 @@ Circular
 Book (400)
 14px
 
-💡 Why Design Properties Matter
-
-Understanding the design properties of a mockup (like typography, colors, spacing, and layout) ensures:
+💡 Why Design Properties MatterUnderstanding the design properties of a mockup (like typography, colors, spacing, and layout) ensures:
 	•	Consistency across all screens and components
 	•	Accurate implementation of the designer’s vision
 	•	Faster development with reusable design tokens
 	•	Improved accessibility and branding alignment
 	•	Easier team collaboration between designers and developers
-    👥 Project Roles and Responsibilities
-
+	 Project Roles and Responsibilities
 Role
 Responsibilities
 Project Manager
@@ -81,3 +78,4 @@ Product Owner
 Define project vision, prioritize features, represent stakeholder needs
 Scrum Master
 Facilitate agile ceremonies, remove blockers, track sprint progress
+
